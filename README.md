@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=oliver99Eduardo117&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="512px" alt="No hay meme.jpg"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=oliver99Eduardo117&icon=0&color=1)](https://visitcount.itsvg.in)
