@@ -26,6 +26,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=oliver99Eduardo117&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=oliver99Eduardo117&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oliver11702) 
